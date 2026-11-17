@@ -1,0 +1,14 @@
+# Keep original Sherlock evidence and other potentially sensitive material out of GitHub
+*.zip
+*.7z
+*.tar
+*.tar.gz
+auth.log
+wtmp
+*.db
+*.sqlite
+*.sqlite3
+*.deb
+__pycache__/
+.DS_Store
+Thumbs.db
